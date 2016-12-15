@@ -1,0 +1,76 @@
+*{
+color:white;
+font-family:Arial;
+}
+
+body {
+background-color:#181818;
+}
+
+nav {
+background-color:#696969;
+margin-top:0px;
+}
+
+nav a {
+font-size:20px;
+padding-left:80px;
+padding-right:80px;
+color:#B22222;
+text-decoration:none;
+}
+
+#corps {
+background-color:#696969;
+border:1px solid #A0A0A0;
+
+padding-bottom:30px;
+}
+
+section {
+background-color:#696969;
+}
+
+#corps article {
+background-color:#696969;
+text-align:justify;
+padding-left:70px;
+margin-top:10px;
+}
+
+#corps h2 {
+background-color:#696969;
+text-align:center;
+}
+
+h1 {
+color:#B22222;
+}
+
+nav td{
+padding:20px;
+margin:auto;
+}
+table tr td{
+background-color:#696969;
+
+}
+
+nav table {
+margin:auto;
+}
+
+
+nav td:hover {
+background-color:gray;
+}
+
+#corps table {
+margin-left:70px;
+width:100%;
+text-align:justify;
+}
+
+#corps td {
+padding-top:15px;
+}
